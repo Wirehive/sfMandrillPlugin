@@ -1,0 +1,3 @@
+[submodule "lib/vendor/mandrill-api-php"]
+	path = lib/vendor/mandrill-api-php
+	url = https://bitbucket.org/mailchimp/mandrill-api-php.git
