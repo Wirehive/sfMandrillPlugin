@@ -1,0 +1,3 @@
+all:
+  mandrill:
+    api_key: abcdefghijklmnopqrstuvwxyz
